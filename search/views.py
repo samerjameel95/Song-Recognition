@@ -31,7 +31,7 @@ def youtube(request):
         else:
             print('error')
     data = {
-        'api_token': '4e75fcfca13166ed9cfaa0c4df4391b1',
+        'api_token': 'ede46aa55253ee44a2f752e4bdd1f162',
         'return': 'apple_music,spotify',
     }
     files = {
